@@ -12,9 +12,6 @@ CS Student | Frontend Developer 🧑‍💻
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamvivekmane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iamvivekmane&theme=dark&hide_border=false)<br/>
