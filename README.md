@@ -9,56 +9,19 @@
   📍 India &nbsp;|&nbsp; ⚛️ Currently working on React.js &nbsp;|&nbsp; 🌱 Learning Next.js &nbsp;|&nbsp; 👯 Open to collaborate on full-stack web apps
 </p>
 
-<div align="center">
-
----
-## 🚀 React Projects
-
-| Project                                                    | Description                                 |
-| ---------------------------------------------------------- | ------------------------------------------- |
-| [TheNotebook](https://github.com/iamvivekmane/TheNotebook) | A notes app built with React                |
-| [Portfolio](https://github.com/iamvivekmane/portfolio)     | Personal portfolio website                  |
-| [TextKit](https://github.com/iamvivekmane/text-utils)      | A text utility application built with React |
-
 ---
 
-## 🌐 HTML · CSS · JavaScript Projects
+## 🗂️ Projects & Technology Landscape
 
-| Project                                                                  | Description                    |
-| ------------------------------------------------------------------------ | ------------------------------ |
-| [restaurant-website](https://github.com/iamvivekmane/restaurant-website) | Complete restaurant website    |
-| [netflix-clone](https://github.com/iamvivekmane/netflix-clone)           | Netflix clone using HTML & CSS |
-| [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui)   | X (Twitter) landing page UI    |
-
----
-
-## 🛠️ Technologies
-
-| Technology                               | Description                                          |
-| ---------------------------------------- | ---------------------------------------------------- |
-| [React](https://reactjs.org/)            | JavaScript library for building user interfaces      |
-| [Next.js](https://nextjs.org/)           | React framework for production-grade web apps        |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework for rapid UI development |
+| Domain                    | Skills / Tools               | Projects                                                                                                                                                                                                                       |
+| ------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Frontend Projects**     | React                        | - [TheNotebook](https://github.com/iamvivekmane/TheNotebook) <br> - [TextKit](https://github.com/iamvivekmane/text-utility-application) <br> - [Portfolio](https://github.com/iamvivekmane/portfolio)                          |
+| **UI Projects**           | HTML, CSS, JavaScript        | - [restaurant-website](https://github.com/iamvivekmane/restaurant-website) <br> - [netflix-clone](https://github.com/iamvivekmane/netflix-clone) <br> - [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui) |
+| **Technologies**          | React, Next.js, Tailwind CSS | - [React](https://github.com/iamvivekmane/react-learning) <br> - [Next.js](https://github.com/iamvivekmane/next-js) <br> - [Tailwind CSS](https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS)                   |
+| **Programming Languages** | JavaScript, Java, C++        | - [javascript](https://github.com/iamvivekmane/javascript) <br> - [java](https://github.com/iamvivekmane/java) <br> - [cpp](https://github.com/iamvivekmane/cpp)                                                               |
+| **Data Structures**       | C++, Java, JavaScript        | - [data-structures](https://github.com/iamvivekmane/data-structures)                                                                                                                                                           |
 
 ---
-
-## 💻 Programming Languages
-
-| Language                                                 | Repository                    |
-| -------------------------------------------------------- | ----------------------------- |
-| [JavaScript](https://github.com/iamvivekmane/javascript) | Core JS concepts and practice |
-| [Java](https://github.com/iamvivekmane/java)             | Java programs and exercises   |
-| [C++](https://github.com/iamvivekmane/cpp)               | C++ programs and exercises    |
-
----
-
-## 📊 Data Structures
-
-🗂️ [data-structures](https://github.com/iamvivekmane/data-structures) — DSA learning & practice
-
----
-
-</div>
 
 ## 📬 Connect with Me
 
