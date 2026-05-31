@@ -11,62 +11,19 @@
 
 ---
 
+<div align="center">
+
 ## 🗂️ Projects & Technology Landscape
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th>Domain</th>
-      <th>Skills/Tools</th>
-      <th>Projects</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Frontend Projects</strong></td>
-      <td>React</td>
-      <td>
-        - <a href="https://github.com/iamvivekmane/TheNotebook">TheNotebook</a><br>
-        - <a href="https://github.com/iamvivekmane/text-utility-application">TextKit</a><br>
-        - <a href="https://github.com/iamvivekmane/portfolio">Portfolio</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>UI Projects</strong></td>
-      <td>HTML, CSS, JavaScript</td>
-      <td>
-        - <a href="https://github.com/iamvivekmane/restaurant-website">restaurant-website</a><br>
-        - <a href="https://github.com/iamvivekmane/netflix-clone">netflix-clone</a><br>
-        - <a href="https://github.com/iamvivekmane/x-landing-page-ui">x-landing-page-ui</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Technologies</strong></td>
-      <td>- React<br>- Next.js<br>- Tailwind CSS</td>
-      <td>
-        - <a href="https://github.com/iamvivekmane/react-learning">React</a><br>
-        - <a href="https://github.com/iamvivekmane/next-js">Next.js</a><br>
-        - <a href="https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS">Tailwind CSS</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td>- JavaScript<br>- Java<br>- C++</td>
-      <td>
-        - <a href="https://github.com/iamvivekmane/javascript">javascript</a><br>
-        - <a href="https://github.com/iamvivekmane/java">java</a><br>
-        - <a href="https://github.com/iamvivekmane/cpp">cpp</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Data Structures</strong></td>
-      <td>C++</td>
-      <td>
-        - <a href="https://github.com/iamvivekmane/data-structures">data-structures</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Domain | Skills/Tools | Projects |
+| ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend Projects** | React | - [TheNotebook](https://github.com/iamvivekmane/TheNotebook)<br>- [TextKit](https://github.com/iamvivekmane/text-utility-application)<br>- [Portfolio](https://github.com/iamvivekmane/portfolio) |
+| **UI Projects** | HTML, CSS, JavaScript | - [restaurant-website](https://github.com/iamvivekmane/restaurant-website)<br>- [netflix-clone](https://github.com/iamvivekmane/netflix-clone)<br>- [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui) |
+| **Technologies** | - React<br>- Next.js<br>- Tailwind CSS | - [React](https://github.com/iamvivekmane/react-learning)<br>- [Next.js](https://github.com/iamvivekmane/next-js)<br>- [Tailwind CSS](https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS) |
+| **Programming Languages** | - JavaScript<br>- Java<br>- C++ | - [javascript](https://github.com/iamvivekmane/javascript)<br>- [java](https://github.com/iamvivekmane/java)<br>- [cpp](https://github.com/iamvivekmane/cpp) |
+| **Data Structures** | C++ | - [data-structures](https://github.com/iamvivekmane/data-structures) |
+
+</div>
 
 ---
 
