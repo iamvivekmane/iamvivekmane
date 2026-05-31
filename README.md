@@ -1,24 +1,86 @@
-# 💫 About Me:
-🔭 I'm currently working on react projects<br>🌱 I'm currently learning React<br>👯 I'm looking to collaborate on full-stack web apps<br>🤝 I'm looking for help with React best practices & backend APIs<br>💬 Ask me about JavaScript, React <br>
+<h1 align="center">👋 Hey, I'm Vivek Mane</h1>
+<h3 align="center">Frontend Developer · MERN Stack · CS'27</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamvivekmane&label=Profile%20views&color=0e75b6&style=flat" alt="iamvivekmane" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-mane-9b36552a1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vivekmane172) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vivek_mane08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekmane172@gmail.com) 
+<p align="center">
+  📍 India &nbsp;|&nbsp; ⚛️ Currently working on React.js &nbsp;|&nbsp; 🌱 Learning Next.js &nbsp;|&nbsp; 👯 Open to collaborate on full-stack web apps
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=iamvivekmane&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=iamvivekmane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iamvivekmane&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamvivekmane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+## 🚀 React Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Project                                                    | Description                                 |
+| ---------------------------------------------------------- | ------------------------------------------- |
+| [TheNotebook](https://github.com/iamvivekmane/TheNotebook) | A notes app built with React                |
+| [Portfolio](https://github.com/iamvivekmane/portfolio)     | Personal portfolio website                  |
+| [TextKit](https://github.com/iamvivekmane/text-utils)      | A text utility application built with React |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iamvivekmane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 HTML · CSS · JavaScript Projects
+
+| Project                                                                  | Description                    |
+| ------------------------------------------------------------------------ | ------------------------------ |
+| [restaurant-website](https://github.com/iamvivekmane/restaurant-website) | Complete restaurant website    |
+| [netflix-clone](https://github.com/iamvivekmane/netflix-clone)           | Netflix clone using HTML & CSS |
+| [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui)   | X (Twitter) landing page UI    |
+
+---
+
+## 🛠️ Technologies
+
+| Technology                               | Description                                          |
+| ---------------------------------------- | ---------------------------------------------------- |
+| [React](https://reactjs.org/)            | JavaScript library for building user interfaces      |
+| [Next.js](https://nextjs.org/)           | React framework for production-grade web apps        |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework for rapid UI development |
+
+---
+
+## 💻 Programming Languages
+
+| Language                                                 | Repository                    |
+| -------------------------------------------------------- | ----------------------------- |
+| [JavaScript](https://github.com/iamvivekmane/javascript) | Core JS concepts and practice |
+| [Java](https://github.com/iamvivekmane/java)             | Java programs and exercises   |
+| [C++](https://github.com/iamvivekmane/cpp)               | C++ programs and exercises    |
+
+---
+
+## 📊 Data Structures
+
+🗂️ [data-structures](https://github.com/iamvivekmane/data-structures) — DSA learning & practice
+
+---
+
+</div>
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vivek-mane-9b36552a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/vivek_mane08" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@vivekmane172" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:vivekmane172@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvivekmane&theme=dark&hide_border=false" /><br/>
+</p>
