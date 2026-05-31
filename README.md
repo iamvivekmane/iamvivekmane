@@ -16,9 +16,9 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="20%">Domain</th>
-      <th width="25%">Skills / Tools</th>
-      <th width="55%">Projects</th>
+      <th>Domain</th>
+      <th>Skills/Tools</th>
+      <th>Projects</th>
     </tr>
   </thead>
   <tbody>
@@ -26,8 +26,8 @@
       <td><strong>Frontend Projects</strong></td>
       <td>React</td>
       <td>
-        - <a href="https://github.com/iamvivekmane/TheNotebook">TheNotebook</a><br/>
-        - <a href="https://github.com/iamvivekmane/text-utility-application">TextKit</a><br/>
+        - <a href="https://github.com/iamvivekmane/TheNotebook">TheNotebook</a><br>
+        - <a href="https://github.com/iamvivekmane/text-utility-application">TextKit</a><br>
         - <a href="https://github.com/iamvivekmane/portfolio">Portfolio</a>
       </td>
     </tr>
@@ -35,32 +35,32 @@
       <td><strong>UI Projects</strong></td>
       <td>HTML, CSS, JavaScript</td>
       <td>
-        - <a href="https://github.com/iamvivekmane/restaurant-website">restaurant-website</a><br/>
-        - <a href="https://github.com/iamvivekmane/netflix-clone">netflix-clone</a><br/>
+        - <a href="https://github.com/iamvivekmane/restaurant-website">restaurant-website</a><br>
+        - <a href="https://github.com/iamvivekmane/netflix-clone">netflix-clone</a><br>
         - <a href="https://github.com/iamvivekmane/x-landing-page-ui">x-landing-page-ui</a>
       </td>
     </tr>
     <tr>
       <td><strong>Technologies</strong></td>
-      <td>React, Next.js, Tailwind CSS</td>
+      <td>- React<br>- Next.js<br>- Tailwind CSS</td>
       <td>
-        - <a href="https://github.com/iamvivekmane/react-learning">React</a><br/>
-        - <a href="https://github.com/iamvivekmane/next-js">Next.js</a><br/>
+        - <a href="https://github.com/iamvivekmane/react-learning">React</a><br>
+        - <a href="https://github.com/iamvivekmane/next-js">Next.js</a><br>
         - <a href="https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS">Tailwind CSS</a>
       </td>
     </tr>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td>JavaScript, Java, C++</td>
+      <td>- JavaScript<br>- Java<br>- C++</td>
       <td>
-        - <a href="https://github.com/iamvivekmane/javascript">javascript</a><br/>
-        - <a href="https://github.com/iamvivekmane/java">java</a><br/>
+        - <a href="https://github.com/iamvivekmane/javascript">javascript</a><br>
+        - <a href="https://github.com/iamvivekmane/java">java</a><br>
         - <a href="https://github.com/iamvivekmane/cpp">cpp</a>
       </td>
     </tr>
     <tr>
       <td><strong>Data Structures</strong></td>
-      <td>C++, Java, JavaScript</td>
+      <td>C++</td>
       <td>
         - <a href="https://github.com/iamvivekmane/data-structures">data-structures</a>
       </td>
