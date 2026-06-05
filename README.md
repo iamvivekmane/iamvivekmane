@@ -17,8 +17,8 @@
 
 | Domain | Skills/Tools | Projects |
 | ---------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend Projects** | React | - [TheNotebook](https://github.com/iamvivekmane/TheNotebook)<br>- [TextKit](https://github.com/iamvivekmane/text-utility-application)<br>- [Portfolio](https://github.com/iamvivekmane/portfolio) |
-| **UI Projects** | HTML, CSS, JavaScript | - [restaurant-website](https://github.com/iamvivekmane/restaurant-website)<br>- [netflix-clone](https://github.com/iamvivekmane/netflix-clone)<br>- [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui) |
+| **Frontend Projects** | React | - [react-notes-app](https://github.com/iamvivekmane/TheNotebook)<br>- [react-text-utility-app](https://github.com/iamvivekmane/text-utility-application)<br>- [portfolio-website](https://github.com/iamvivekmane/portfolio) |
+| **UI Projects** | HTML, CSS, JavaScript | - [restaurant-website](https://github.com/iamvivekmane/restaurant-website)<br>- [netflix-ui-clone](https://github.com/iamvivekmane/netflix-clone)<br>- [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui) |
 | **Technologies** | - React<br>- Next.js<br>- Tailwind CSS | - [React](https://github.com/iamvivekmane/react-learning)<br>- [Next.js](https://github.com/iamvivekmane/next-js)<br>- [Tailwind CSS](https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS) |
 | **Programming Languages** | - JavaScript<br>- Java<br>- C++ | - [javascript](https://github.com/iamvivekmane/javascript)<br>- [java](https://github.com/iamvivekmane/java)<br>- [cpp](https://github.com/iamvivekmane/cpp) |
 | **Data Structures** | C++ | - [data-structures](https://github.com/iamvivekmane/data-structures) |
