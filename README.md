@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  📍 India &nbsp;|&nbsp; ⚛️ Currently working on Full Stack projects &nbsp;|&nbsp; 🌱 Learning Node.js &nbsp;|&nbsp; 👯 Open to collaborate on full-stack web apps
+  📍 India &nbsp;|&nbsp; ⚛️ Currently working on Full Stack projects &nbsp;|&nbsp; 🌱 Learning Express.js &nbsp;|&nbsp; 👯 Open to collaborate on full-stack web apps
 </p>
 
 ---
@@ -20,7 +20,7 @@
 | **Full stack Projects**   | React, Node.js,Express,MongoDB                       | - [react-notes-app](https://github.com/iamvivekmane/react-learning/tree/main/Day%2006/react-notes-app)<br>                                                                                                                                                                                            |
 | **Frontend Projects**     | React                                                | - [react-news-app](https://github.com/iamvivekmane/react-learning/tree/main/Day%2005/react-news-app)<br>- [portfolio-website](https://github.com/iamvivekmane/portfolio)<br>- [react-text-utility-app](https://github.com/iamvivekmane/react-learning/tree/main/Day%2004/react-text-utility-app)<br>  |
 | **UI Projects**           | HTML, CSS, JavaScript                                | - [restaurant-website](https://github.com/iamvivekmane/restaurant-website)<br>- [netflix-ui-clone](https://github.com/iamvivekmane/netflix-clone)<br>- [x-landing-page-ui](https://github.com/iamvivekmane/x-landing-page-ui)                                                                         |
-| **Technologies**          | - React<br> - Node.js<br>- Next.js<br>- Tailwind CSS | - [react-learning](https://github.com/iamvivekmane/react-learning)<br> - [node.js-learning](https://github.com/iamvivekmane/node-js)<br>- [next.js-learning](https://github.com/iamvivekmane/next-js)<br>- [tailwind-css-practice](https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS) |
+| **Technologies**          | - React<br> - Node.js<br>- Express.js<br>- Next.js<br>- Tailwind CSS | - [react-learning](https://github.com/iamvivekmane/react-learning)<br>- [node.js-learning](https://github.com/iamvivekmane/node-js)<br>- [express.js-learning](https://github.com/iamvivekmane/express-js)<br>- [next.js-learning](https://github.com/iamvivekmane/next-js)<br>- [tailwind-css-practice](https://github.com/iamvivekmane/frontend/tree/main/Tailwind%20CSS) |
 | **Programming Languages** | - JavaScript<br>- Java<br>- C++                      | - [javascript](https://github.com/iamvivekmane/javascript)<br>- [java](https://github.com/iamvivekmane/java)<br>- [cpp](https://github.com/iamvivekmane/cpp)                                                                                                                                          |
 | **Data Structures**       | C++                                                  | - [data-structures](https://github.com/iamvivekmane/data-structures)                                                                                                                                                                                                                                  |
 
